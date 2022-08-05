@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kwan6\\source\\repos\\lab2\\lab2.csproj": {}
+    "G:\\My Drive\\Algonquin\\WDIA\\Lv3\\C# WP language\\lab2\\lab2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kwan6\\source\\repos\\lab2\\lab2.csproj": {
+    "G:\\My Drive\\Algonquin\\WDIA\\Lv3\\C# WP language\\lab2\\lab2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kwan6\\source\\repos\\lab2\\lab2.csproj",
+        "projectUniqueName": "G:\\My Drive\\Algonquin\\WDIA\\Lv3\\C# WP language\\lab2\\lab2.csproj",
         "projectName": "lab2",
-        "projectPath": "C:\\Users\\kwan6\\source\\repos\\lab2\\lab2.csproj",
+        "projectPath": "G:\\My Drive\\Algonquin\\WDIA\\Lv3\\C# WP language\\lab2\\lab2.csproj",
         "packagesPath": "C:\\Users\\kwan6\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kwan6\\source\\repos\\lab2\\obj\\",
+        "outputPath": "G:\\My Drive\\Algonquin\\WDIA\\Lv3\\C# WP language\\lab2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kwan6\\AppData\\Roaming\\NuGet\\NuGet.Config",
