@@ -1,0 +1,112 @@
+C:\Users\kwan6\source\repos\lab3\lab3\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kwan6\source\repos\lab3\lab3\bin\Debug\net6.0\appsettings.json
+C:\Users\kwan6\source\repos\lab3\lab3\bin\Debug\net6.0\lab3.staticwebassets.runtime.json
+C:\Users\kwan6\source\repos\lab3\lab3\bin\Debug\net6.0\lab3.exe
+C:\Users\kwan6\source\repos\lab3\lab3\bin\Debug\net6.0\lab3.deps.json
+C:\Users\kwan6\source\repos\lab3\lab3\bin\Debug\net6.0\lab3.runtimeconfig.json
+C:\Users\kwan6\source\repos\lab3\lab3\bin\Debug\net6.0\lab3.dll
+C:\Users\kwan6\source\repos\lab3\lab3\bin\Debug\net6.0\lab3.pdb
+C:\Users\kwan6\source\repos\lab3\lab3\bin\Debug\net6.0\AcademicManagement.dll
+C:\Users\kwan6\source\repos\lab3\lab3\obj\Debug\net6.0\lab3.csproj.AssemblyReference.cache
+C:\Users\kwan6\source\repos\lab3\lab3\obj\Debug\net6.0\lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kwan6\source\repos\lab3\lab3\obj\Debug\net6.0\lab3.AssemblyInfoInputs.cache
+C:\Users\kwan6\source\repos\lab3\lab3\obj\Debug\net6.0\lab3.AssemblyInfo.cs
+C:\Users\kwan6\source\repos\lab3\lab3\obj\Debug\net6.0\lab3.csproj.CoreCompileInputs.cache
+C:\Users\kwan6\source\repos\lab3\lab3\obj\Debug\net6.0\lab3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kwan6\source\repos\lab3\lab3\obj\Debug\net6.0\lab3.RazorAssemblyInfo.cache
+C:\Users\kwan6\source\repos\lab3\lab3\obj\Debug\net6.0\lab3.RazorAssemblyInfo.cs
+C:\Users\kwan6\source\repos\lab3\lab3\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kwan6\source\repos\lab3\lab3\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kwan6\source\repos\lab3\lab3\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kwan6\source\repos\lab3\lab3\obj\Debug\net6.0\scopedcss\bundle\lab3.styles.css
+C:\Users\kwan6\source\repos\lab3\lab3\obj\Debug\net6.0\scopedcss\projectbundle\lab3.bundle.scp.css
+C:\Users\kwan6\source\repos\lab3\lab3\obj\Debug\net6.0\lab3.csproj.CopyComplete
+C:\Users\kwan6\source\repos\lab3\lab3\obj\Debug\net6.0\lab3.dll
+C:\Users\kwan6\source\repos\lab3\lab3\obj\Debug\net6.0\refint\lab3.dll
+C:\Users\kwan6\source\repos\lab3\lab3\obj\Debug\net6.0\lab3.pdb
+C:\Users\kwan6\source\repos\lab3\lab3\obj\Debug\net6.0\lab3.genruntimeconfig.cache
+C:\Users\kwan6\source\repos\lab3\lab3\obj\Debug\net6.0\ref\lab3.dll
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\bin\Debug\net6.0\appsettings.Development.json
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\bin\Debug\net6.0\appsettings.json
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\bin\Debug\net6.0\lab3.staticwebassets.runtime.json
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\bin\Debug\net6.0\lab3.exe
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\bin\Debug\net6.0\lab3.deps.json
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\bin\Debug\net6.0\lab3.runtimeconfig.json
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\bin\Debug\net6.0\lab3.dll
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\bin\Debug\net6.0\lab3.pdb
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\bin\Debug\net6.0\AcademicManagement.dll
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\obj\Debug\net6.0\lab3.csproj.AssemblyReference.cache
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\obj\Debug\net6.0\lab3.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\obj\Debug\net6.0\lab3.AssemblyInfoInputs.cache
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\obj\Debug\net6.0\lab3.AssemblyInfo.cs
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\obj\Debug\net6.0\lab3.csproj.CoreCompileInputs.cache
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\obj\Debug\net6.0\lab3.MvcApplicationPartsAssemblyInfo.cache
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\obj\Debug\net6.0\lab3.RazorAssemblyInfo.cache
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\obj\Debug\net6.0\lab3.RazorAssemblyInfo.cs
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\obj\Debug\net6.0\staticwebassets.build.json
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\obj\Debug\net6.0\staticwebassets.development.json
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\obj\Debug\net6.0\scopedcss\bundle\lab3.styles.css
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\obj\Debug\net6.0\scopedcss\projectbundle\lab3.bundle.scp.css
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\obj\Debug\net6.0\lab3.csproj.CopyComplete
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\obj\Debug\net6.0\lab3.dll
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\obj\Debug\net6.0\refint\lab3.dll
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\obj\Debug\net6.0\lab3.pdb
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\obj\Debug\net6.0\lab3.genruntimeconfig.cache
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\obj\Debug\net6.0\ref\lab3.dll
+G:\我的雲端硬碟\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\bin\Debug\net6.0\appsettings.Development.json
+G:\我的雲端硬碟\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\bin\Debug\net6.0\appsettings.json
+G:\我的雲端硬碟\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\bin\Debug\net6.0\lab3.staticwebassets.runtime.json
+G:\我的雲端硬碟\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\bin\Debug\net6.0\lab3.exe
+G:\我的雲端硬碟\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\bin\Debug\net6.0\lab3.deps.json
+G:\我的雲端硬碟\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\bin\Debug\net6.0\lab3.runtimeconfig.json
+G:\我的雲端硬碟\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\bin\Debug\net6.0\lab3.dll
+G:\我的雲端硬碟\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\bin\Debug\net6.0\lab3.pdb
+G:\我的雲端硬碟\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\bin\Debug\net6.0\AcademicManagement.dll
+G:\我的雲端硬碟\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\obj\Debug\net6.0\lab3.csproj.AssemblyReference.cache
+G:\我的雲端硬碟\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\obj\Debug\net6.0\lab3.GeneratedMSBuildEditorConfig.editorconfig
+G:\我的雲端硬碟\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\obj\Debug\net6.0\lab3.AssemblyInfoInputs.cache
+G:\我的雲端硬碟\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\obj\Debug\net6.0\lab3.AssemblyInfo.cs
+G:\我的雲端硬碟\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\obj\Debug\net6.0\lab3.csproj.CoreCompileInputs.cache
+G:\我的雲端硬碟\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\obj\Debug\net6.0\lab3.MvcApplicationPartsAssemblyInfo.cache
+G:\我的雲端硬碟\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\obj\Debug\net6.0\lab3.RazorAssemblyInfo.cache
+G:\我的雲端硬碟\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\obj\Debug\net6.0\lab3.RazorAssemblyInfo.cs
+G:\我的雲端硬碟\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\obj\Debug\net6.0\staticwebassets.build.json
+G:\我的雲端硬碟\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\obj\Debug\net6.0\staticwebassets.development.json
+G:\我的雲端硬碟\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+G:\我的雲端硬碟\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\obj\Debug\net6.0\scopedcss\bundle\lab3.styles.css
+G:\我的雲端硬碟\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\obj\Debug\net6.0\scopedcss\projectbundle\lab3.bundle.scp.css
+G:\我的雲端硬碟\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\obj\Debug\net6.0\lab3.csproj.CopyComplete
+G:\我的雲端硬碟\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\obj\Debug\net6.0\lab3.dll
+G:\我的雲端硬碟\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\obj\Debug\net6.0\refint\lab3.dll
+G:\我的雲端硬碟\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\obj\Debug\net6.0\lab3.pdb
+G:\我的雲端硬碟\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\obj\Debug\net6.0\lab3.genruntimeconfig.cache
+G:\我的雲端硬碟\Algonquin\WDIA\Lv3\C# WP language\lab3\lab3\obj\Debug\net6.0\ref\lab3.dll
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\Labs\Lab3\lab3\bin\Debug\net6.0\appsettings.Development.json
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\Labs\Lab3\lab3\bin\Debug\net6.0\appsettings.json
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\Labs\Lab3\lab3\bin\Debug\net6.0\lab3.staticwebassets.runtime.json
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\Labs\Lab3\lab3\bin\Debug\net6.0\lab3.exe
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\Labs\Lab3\lab3\bin\Debug\net6.0\lab3.deps.json
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\Labs\Lab3\lab3\bin\Debug\net6.0\lab3.runtimeconfig.json
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\Labs\Lab3\lab3\bin\Debug\net6.0\lab3.dll
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\Labs\Lab3\lab3\bin\Debug\net6.0\lab3.pdb
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\Labs\Lab3\lab3\bin\Debug\net6.0\AcademicManagement.dll
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\Labs\Lab3\lab3\obj\Debug\net6.0\lab3.csproj.AssemblyReference.cache
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\Labs\Lab3\lab3\obj\Debug\net6.0\lab3.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\Labs\Lab3\lab3\obj\Debug\net6.0\lab3.AssemblyInfoInputs.cache
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\Labs\Lab3\lab3\obj\Debug\net6.0\lab3.AssemblyInfo.cs
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\Labs\Lab3\lab3\obj\Debug\net6.0\lab3.csproj.CoreCompileInputs.cache
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\Labs\Lab3\lab3\obj\Debug\net6.0\lab3.MvcApplicationPartsAssemblyInfo.cache
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\Labs\Lab3\lab3\obj\Debug\net6.0\lab3.RazorAssemblyInfo.cache
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\Labs\Lab3\lab3\obj\Debug\net6.0\lab3.RazorAssemblyInfo.cs
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\Labs\Lab3\lab3\obj\Debug\net6.0\staticwebassets.build.json
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\Labs\Lab3\lab3\obj\Debug\net6.0\staticwebassets.development.json
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\Labs\Lab3\lab3\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\Labs\Lab3\lab3\obj\Debug\net6.0\scopedcss\bundle\lab3.styles.css
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\Labs\Lab3\lab3\obj\Debug\net6.0\scopedcss\projectbundle\lab3.bundle.scp.css
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\Labs\Lab3\lab3\obj\Debug\net6.0\lab3.csproj.CopyComplete
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\Labs\Lab3\lab3\obj\Debug\net6.0\lab3.dll
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\Labs\Lab3\lab3\obj\Debug\net6.0\refint\lab3.dll
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\Labs\Lab3\lab3\obj\Debug\net6.0\lab3.pdb
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\Labs\Lab3\lab3\obj\Debug\net6.0\lab3.genruntimeconfig.cache
+G:\My Drive\Algonquin\WDIA\Lv3\C# WP language\Labs\Lab3\lab3\obj\Debug\net6.0\ref\lab3.dll
