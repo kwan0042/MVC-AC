@@ -1,0 +1,81 @@
+﻿@model IList<Lab6.Models.DataAccess.AcademicRecord>
+        
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>AcademicRecord</h4>
+<hr/>
+
+    
+<form asp-action="EditAll method="Post">
+
+    <table class="table ">
+        <thead>
+            <tr>
+            
+                <th>
+                    <a asp-action="EditAll" asp-route-sortOrder="CCode">Course</a>
+                </th>
+                <th>
+                    <a asp-action="EditAll" asp-route-sortOrder="SSName">Student</a>
+                </th>
+                <th>
+                    Grade
+                </th>
+                <th>
+                </th
+            </tr>
+        </thead>
+        <tbody>
+        @for (var i = 0; i < Model.Count; i++){
+            <tr>
+                <td>
+                    <label class="control-label dark-label col-lg-10">Course: @Model[i].CourseCode - @Model[i].CourseCodeNavigation.Title</label>
+                    @Html.HiddenFor(m => Model[i].CourseCode)
+                    @Html.HiddenFor(m => Model[i].CourseCodeNavigation.Code)
+                    @Html.HiddenFor(m => Model[i].CourseCodeNavigation.Title)
+                    
+                </td>
+                <td>
+                    <label class="control-label dark-label col-lg-10">Student: @Model[i].StudentId - @Model[i].Student.Name</label>
+                    @Html.HiddenFor(m => Model[i].StudentId)
+                    @Html.HiddenFor(m => Model[i].Student.Id)
+                    @Html.HiddenFor(m => Model[i].Student.Name)
+                   
+                </td>
+                <td>
+                    @Html.TextBoxFor(m => Model[i].Grade)
+                </td>
+                <td>
+                    <span asp-validation-for="@Model[i].Grade" class="text-danger"></span>
+                        @if (Model[i].Grade > 100 || Model[i].Grade < 0)
+                        {
+                            @Html.ValidationMessage("Grade1", new{ @class="text-danger"})
+                        }else{
+                        }
+                        
+                    
+                </td>
+                        
+            </tr>
+        }
+        </tbody>
+    </table>
+
+    <div class="form-group">
+        <input type="submit" value="Save" class="btn btn-primary" asp-controller="AcademicRecords" asp-action="EditAll"/>
+    </div>
+</form>
+    
+
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

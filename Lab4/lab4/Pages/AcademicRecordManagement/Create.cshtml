@@ -1,0 +1,42 @@
+﻿@page
+@model lab4.Pages.AcademicRecordManagement.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>AcademicRecord</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="AcademicRecord.CourseCode" class="control-label"></label>
+                <select asp-for="AcademicRecord.CourseCode" class ="form-control" asp-items="ViewBag.CourseCode"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="AcademicRecord.StudentId" class="control-label"></label>
+                <select asp-for="AcademicRecord.StudentId" class ="form-control" asp-items="ViewBag.StudentId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="AcademicRecord.Grade" class="control-label"></label>
+                <input asp-for="AcademicRecord.Grade" class="form-control" />
+                <span asp-validation-for="AcademicRecord.Grade" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
