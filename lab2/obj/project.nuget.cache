@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DeXtb1t51z/VfneknixqJcJYjtBjUsibIdu2b66b15afhOOI4IkgHoAELLKpPSJhQO/cz+wz330syrMGD2feIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kwan6\\source\\repos\\lab2\\lab2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kwan6\\.nuget\\packages\\academicmanagement\\2.0.0\\academicmanagement.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

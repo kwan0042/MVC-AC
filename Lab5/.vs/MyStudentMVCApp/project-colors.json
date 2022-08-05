@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e13a1308-8c64-48ba-9f89-42626f5a0ed2": {
+      "ProjectGuid": "e13a1308-8c64-48ba-9f89-42626f5a0ed2",
+      "DisplayName": "MyStudentMVCApp",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
